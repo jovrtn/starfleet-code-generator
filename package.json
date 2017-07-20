@@ -1,0 +1,14 @@
+{
+  "name": "starfleet-code-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesse L.K. Overton <jesse@ovrtn.com> (http://ovrtn.com)",
+  "license": "ISC",
+  "engines": {
+    "node": ">=4.2.4"
+  }
+}
